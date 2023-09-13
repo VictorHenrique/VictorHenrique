@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=VictorHenrique&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p> Estudante de Ciências de Computação no **ICMC/USP**.</p>
+<p> Computer Science undergraduate student at **ICMC/USP**.</p>
 
 <hr>
